@@ -1,4 +1,7 @@
-![Screenshot (526)](https://github.com/user-attachments/assets/924621ac-5635-4579-ba34-4b7ef45d2151)# Trendy-Trade-E-commerce-Website
+
+![Screenshot (522)](https://github.com/user-attachments/assets/0db53f52-045a-4762-873e-67b713458123)
+
+# Trendy-Trade-E-commerce-Website
 Trendy Trade, a modern and responsive e-commerce website project. This project showcases an online store for fashion and trendy apparel, providing users with a seamless shopping experience.
 
 # Features
@@ -35,5 +38,6 @@ We welcome contributions to enhance this project. Feel free to submit issues or 
 ![Screenshot (536)](https://github.com/user-attachments/assets/c57a3552-1207-4ca5-ad5c-cd25e5dbba89)
 ![Screenshot (528)](https://github.com/user-attachments/assets/df7adb8c-f130-4a32-b8ae-03bd1e0896d8)
 ![Screenshot (529)](https://github.com/user-attachments/assets/fcf20c74-8041-455a-afc6-dd1c3a0800e2)
+
 
 

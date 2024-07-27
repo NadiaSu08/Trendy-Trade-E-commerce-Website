@@ -16,32 +16,24 @@ Trendy Trade, a modern and responsive e-commerce website project. This project s
 - JavaScript: For interactivity and dynamic content.
 - FontAwesome: For icons and visual enhancements.
 
-# How to Use
-- Clone the repository:
-https://github.com/your-username/Trendy-Trade-E-commerce-Website.git
-
-- Navigate to the project directory:
-cd Trendy-Trade-E-commerce-Website
-- Open the index.html file in your preferred browser to view the website.
-
 # Contributing
 We welcome contributions to enhance this project. Feel free to submit issues or pull requests.
 
 # Project Screenshots:
-![Screenshot (522)](https://github.com/user-attachmen![Screenshot (523)](https://github.com/user-attachments/assets/4e76bfb1-c919-4ce1-8f01-4baf86aa7ad8)
-ts/assets/4f67c480-b326-48dc-a828-aee4cd0d3bf0)
+![Screenshot (522)](https://github.com/user-attachments/assets/8c3939b1-46f6-422e-8d2e-4ddda3f574d1)
+![Screenshot (523)](https://github.com/user-attachments/assets/e85adcb9-e445-426f-b87c-5e2c7939d6be)
+![Screenshot (524)](https://github.com/user-attachments/assets/f26b0cce-7d98-44d4-bc8a-8f9cdf08a2d7)
+![Screenshot (525)](https://github.com/user-attachments/assets/1a96e581-d02c-49f7-b180-0c920a679a7d)
+![Screenshot (526)](https://github.com/user-attachments/assets/b152e844-7b25-4312-8d45-b9676b65883c)
+![Screenshot (527)](https://github.com/user-attachments/assets/84eced5e-d8b2-4a33-b1fb-399e9094e61d)
+![Screenshot (530)](https://github.com/user-attachments/assets/04f27210-4ad8-4ed3-bdfe-f5a76a8906b1)
+![Screenshot (531)](https://github.com/user-attachments/assets/92a3db54-a4be-43a2-865a-f25abcd19bf1)
+![Screenshot (532)](https://github.com/user-attachments/assets/d8639234-f578-4d04-a8a6-e7c140e4072a)
+![Screenshot (533)](https://github.com/user-attachments/assets/4a2336b0-393c-439d-99cc-f66ac3a1276b)
+![Screenshot (534)](https://github.com/user-attachments/assets/24e517ce-3025-47ff-93ce-dd73ab409147)
+![Screenshot (535)](https://github.com/user-attachments/assets/e13c14f1-cd25-4f22-ab73-72cbd4b6561f)
+![Screenshot (536)](https://github.com/user-attachments/assets/c57a3552-1207-4ca5-ad5c-cd25e5dbba89)
+![Screenshot (528)](https://github.com/user-attachments/assets/df7adb8c-f130-4a32-b8ae-03bd1e0896d8)
+![Screenshot (529)](https://github.com/user-attachments/assets/fcf20c74-8041-455a-afc6-dd1c3a0800e2)
 
-![Screenshot (524)](https://github.com/user-attachments/assets/83fa6f4c-e932-46df-99bd-33e8d4b71a41)
-![Screenshot (525)](https://github.com/user-attachments/assets/8ec3994f-5fa1-4ee3-a97c-2ed4a2e7fdd1)
 
-![Screenshot (526)](https://github.com/user-attachments/assets/51dcc75c-b8d0-4dec-a63d-eb9a8a89708b)
-![Screenshot (527)](https://github.com/user-attachments/assets/3a34ccfc-931a-4c80-a50f-175518dbf95c)
-![Screenshot (530)](https://github.com/user-attach![Screenshot (531)](https://github.com/user-attachments/assets/07eaefbd-1dd2-49b3-a57e-26bb2d0ac919)
-ments/assets/640e1c9f-a83d-452d-814b-bccbfca06da6)
-![Screenshot (532)](https://github.com/user-attachm![Screenshot (533)](https://github.com/user-attachments/assets/0a702d66-684a-4238-b7f7-23f1f69849f4)
-ents/assets/33a68ec7-4e27-46fd-914d-294ecf8bcbbe)
-![Screenshot (534)](https://github.com/user-attachments/assets/918a2e38-c173-4faa-93ad-5513f2e29c9b)
-![Screenshot (535)](https://github.com/user-attachments/assets/90e954af-6935-45a9-994b-d163321e2327)
-![Screenshot (536)](https://github.com/user-attachments/assets/49bd01a8-ab24-49b1-b6dd-12359781ff84)
-![Screenshot (528)](https://github.com/user-attachments/assets/88157eae-f591-4685-a79f-3286c62ccdb7)
-![Screenshot (529)](https://github.com/user-attachments/assets/59f9f6a6-8647-46b2-be0c-67525c0bdc42)

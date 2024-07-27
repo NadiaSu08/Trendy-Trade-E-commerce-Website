@@ -1,7 +1,6 @@
-
+# Trendy-Trade-E-commerce-Website
 ![Screenshot (522)](https://github.com/user-attachments/assets/0db53f52-045a-4762-873e-67b713458123)
 
-# Trendy-Trade-E-commerce-Website
 Trendy Trade, a modern and responsive e-commerce website project. This project showcases an online store for fashion and trendy apparel, providing users with a seamless shopping experience.
 
 # Features
